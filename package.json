@@ -1,0 +1,26 @@
+{
+  "name": "the-public-gallery",
+  "version": "1.0.0",
+  "description": "Explore art from the world's best collections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofiagarcia/the-public-library.git"
+  },
+  "keywords": [
+    "art",
+    "museum",
+    "gallery",
+    "digital",
+    "humanities"
+  ],
+  "author": "Sofia Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofiagarcia/the-public-library/issues"
+  },
+  "homepage": "https://github.com/sofiagarcia/the-public-library#readme"
+}
